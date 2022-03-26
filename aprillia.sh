@@ -24,4 +24,8 @@ clear
 
 python april6.py
 
+clear
+
 python april7.py
+
+python april8.py
