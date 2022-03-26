@@ -32,8 +32,9 @@ sh jj.sh
 
 python2 april8.py
 
-cd kosong
-cd ah
-cd asu
-cd cuma
-sh clear.sh
+clear
+
+python april9.py
+
+
+python april10.py
