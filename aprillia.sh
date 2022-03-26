@@ -22,6 +22,6 @@ sh april5.sh
 
 clear
 
-april6.py
+python april6.py
 
-april7.py
+python april7.py
