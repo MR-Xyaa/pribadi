@@ -1,4 +1,5 @@
 #!/bin/sh
 
-echo -----[ Keluar ]----- | lolcat
+echo ----------------------[ KELUAR ]----------------------- | lolcat
+sleep 5
 echo LOADING... | lolcat
