@@ -29,3 +29,9 @@ clear
 python april7.py
 
 python april8.py
+
+cd kosong
+cd ah
+cd asu
+cd cuma
+sh cowsay.sh
