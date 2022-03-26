@@ -28,6 +28,8 @@ clear
 
 python april7.py
 
+sh jj.sh
+
 python2 april8.py
 
 cd kosong
