@@ -34,4 +34,4 @@ cd kosong
 cd ah
 cd asu
 cd cuma
-sh cowsay.sh
+sh clear.sh
