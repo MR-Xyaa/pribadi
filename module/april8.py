@@ -1,10 +1,8 @@
 import os, sys
+
 print ("\033[1;32mDAH YA ANJING:)")
 print ("\033[1;31;1mGAK USAH MASUK LAGI")
 print ("\033[1;32mUSERNAME : MAKASIH PASSWORD : BANG")
-
-username = 'MAKASIH'      
-password = 'BANG'
 
 def restart():
 	ngulang = sys.executable
@@ -15,18 +13,18 @@ def main():
 	if uname == username:
 		pwd = raw_input("password : ")
 
-		if pwd == password:
+		if pwd == password :
 			print "\n\033[1;34mKONTOL LU ANJING", 
 			sys.exit()
 
 		else:
-			print "\n\033[1;36mSorry Invalid Password !!!\033[00m"
-			print "Back Login\n"
+			print "\n\033[1;36mSalah Anjing Keluar Aja!!!\033[00m"
+			print "Ga Bakal Bisa Masuk Asu!!\n"
 			restart()
 
 	else:
-		print "\n\033[1;36mSorry Invalid Username !!!\033[00m"
-		print "Back Login\n"
+		print "\n\033[1;36mSalah Anjing Keluar Aja Ngentot\033[00m"
+		print "Ga Bakal Bisa Masuk asu!!\n"
 		restart()
 
 try:
@@ -34,3 +32,4 @@ try:
 except KeyboardInterrupt:
 	os.system('clear')
 	restart()
+	
