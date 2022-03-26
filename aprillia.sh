@@ -19,3 +19,9 @@ python april4.py
 clear
 
 sh april5.sh
+
+clear
+
+april6.py
+
+april7.py
