@@ -6,4 +6,4 @@ def mengetik(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(random.random() * 0.5)
-mengetik('installing aprill...)
+mengetik('installing aprill...')
