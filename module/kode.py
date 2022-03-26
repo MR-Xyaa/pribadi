@@ -4,7 +4,7 @@ print ("\033[1;32mMasukan UserName&Password:)")
 print ("\033[1;32mJangan Masuk Asu Ini Pribadi")
 print ("\033[1;32mKeluar Anjing!!!")
 username = 'IBNU'      
-Password = 'APRILLIA'
+password = 'APRILLIA'
 
 def restart():
 	ngulang = sys.executable
