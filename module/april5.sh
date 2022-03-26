@@ -8,4 +8,6 @@ echo      [•] GitHub : github.com/MR-Xyaa
 echo [◇]=============================================[◇] | lolcat
 sleep 5
 echo ■■■■■■■■■■■■■■■■■■■■■| lolcat
-sleep 5
+sleep 2
+Menginstall info...
+
