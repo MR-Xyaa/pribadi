@@ -28,7 +28,7 @@ clear
 
 python april7.py
 
-python april8.py
+python2 april8.py
 
 cd kosong
 cd ah
