@@ -5,7 +5,7 @@ clear
 
 sh april.sh
 
-python kode.py
+python2 kode.py
 
 
 python april2.py
