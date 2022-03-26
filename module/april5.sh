@@ -7,5 +7,5 @@ echo      [•] FB     : Xyaa Xyaa
 echo      [•] GitHub : github.com/MR-Xyaa              
 echo [◇]=============================================[◇] | lolcat
 sleep 5
-echo ■■■ | lolcat
+echo ■■■■■■■■■■■■■■■■■■■■■| lolcat
 sleep 5
