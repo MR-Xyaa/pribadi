@@ -9,6 +9,6 @@ echo [◇]=============================================[◇] | lolcat
 sleep 5
 echo ■■■■■■■■■■■■■■■■■■■■■| lolcat
 sleep 2
-echo Menginstall info...lolcat
+echo Menginstall info...
 sleep 5
 
