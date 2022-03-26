@@ -1,0 +1,2 @@
+# pribadi
+Pribadi bukan tools
