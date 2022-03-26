@@ -1,23 +1,15 @@
 #!/bin/sh
 #install bahan
 
-figlet Install Bahan | lolcat
-sleep 3
-
-pkg update && pkg upgrade
 pkg install sl
 
-figlet selesai | lolcat
-sleep 1
-
 echo WWW.XNXX.COM/ |lolcat
-sleep 5
+sleep 2
 echo WWW.PORNHUB.COM |lolcat
-sleep 5
-
-sl
+sleep 2
 echo LOADING... | lolcat
-sleep 5
+sleep 2
+sl
 clear
 toilet -f big -F gay MyProfil | lolcat
 echo [◇]=============================================[◇] | lolcat
