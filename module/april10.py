@@ -7,4 +7,4 @@ def mengetik(s):
         sys.stdout.flush()
         time.sleep(random.random() * 0.1)
 
-mengetik('anak asu')
+mengetik('\033[1;32manak asu')\033[1;32m
