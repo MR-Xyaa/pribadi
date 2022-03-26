@@ -16,5 +16,4 @@ mengetik('menginstall.................................')
 mengetik('menginstall.................................')
 mengetik('menginstall.....................................')
 mengetik('menginstall................................................')
-
-pkg install git
+mengetik('TUNGGU YA ANJING')
