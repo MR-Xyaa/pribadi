@@ -1,4 +1,4 @@
-
+#!/bin/sh
 
 toilet -f big -F gay MyProfil | lolcat
 echo [◇]=============================================[◇] | lolcat
