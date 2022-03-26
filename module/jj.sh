@@ -5,3 +5,4 @@ sleep 2
 echo LOADING... | lolcat
 sleep 5
 echo 100% | lolcat
+sleep 2
