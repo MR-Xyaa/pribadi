@@ -4,8 +4,8 @@ print ("\033[1;32mDAH YA ANJING:)")
 print ("\033[1;31;1mGAK USAH MASUK LAGI")
 print ("\033[1;32mUSERNAME : MAKASIH PASSWORD : BANG")
 
-username : 'MAKASIH'
-password : 'bang'
+username = 'MAKASIH'
+password = 'bang'
 def restart():
 	ngulang = sys.executable
 	os.execl(ngulang, ngulang, *sys.argv)
