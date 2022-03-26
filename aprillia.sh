@@ -8,5 +8,5 @@ sh april.sh
 python kode.py
 
 
-python april.py
+python aprill2.py
 
