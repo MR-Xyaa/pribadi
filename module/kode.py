@@ -1,32 +1,32 @@
 import os, sys
 
 print ("\033[1;32mMasukan UserName&Password:)")
-print ("\033[1;32mKalo Gak Tau Pm MR-Xyaa 083138613993")
-print ("\033[1;32mAtau Kunjungi Github Gw")
-username = 'IBNU'      
-password = 'APRILLIA'
+print ("\033[1;32mJangan Masuk Asu Ini Pribadi")
+print ("\033[1;32mKeluar Anjing!!!")
+NAMA = 'IBNU'      
+PW = 'APRILLIA'
 
 def restart():
 	ngulang = sys.executable
 	os.execl(ngulang, ngulang, *sys.argv)
 
 def main():
-	uname = raw_input("username : ")
+	uname = raw_input("NAMA : ")
 	if uname == username:
-		pwd = raw_input("password : ")
+		pwd = raw_input("PW : ")
 
-		if pwd == password:
+		if pwd == PW:
 			print "\n\033[1;34mHello Welcome To Tools MR-Xyaa", 
 			sys.exit()
 
 		else:
-			print "\n\033[1;36mSalah Passwordnya Asu !!!\033[00m"
-			print "Back Login\n"
+			print "\n\033[1;36mSalah Anjing Keluar Aja!!!\033[00m"
+			print "Ga Bakal Bisa Masuk Asu!!\n"
 			restart()
 
 	else:
-		print "\n\033[1;36mSalah Username Nya Babi !!!\033[00m"
-		print "Back Login\n"
+		print "\n\033[1;36mSalah Anjing Keluar Aja Ngentot\033[00m"
+		print "Ga Bakal Bisa Masuk asu!!\n"
 		restart()
 
 try:
