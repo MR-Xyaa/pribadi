@@ -37,4 +37,4 @@ clear
 python april9.py
 
 
-python april10.py
+bash april10.sh
