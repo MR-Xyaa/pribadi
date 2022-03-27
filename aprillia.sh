@@ -4,7 +4,7 @@ cd module
 clear
 
 python2 kode.py
-
+python load.py
 clear
 
 python april2.py
